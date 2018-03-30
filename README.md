@@ -55,7 +55,7 @@ A dupla optou também por utilizar o algoritmo bubble sort para realizar uma com
 
 ### Como utilizar
 
-Levando em consideração que o sistema usado seja linux, basta entrar na pasta pelo terminal e digitar gcc -o exec SortingAlgorithm.c para utilizar o ordenador. O gerador de gráfico foi desenvolvido em python, assim, basta digitar no terminal python3 gerandoGraficos.py.
+Levando em consideração que o sistema usado seja linux, basta entrar na pasta pelo terminal e digitar gcc -o exec SortingAlgorithm.c para utilizar o ordenador. O gerador de gráfico foi desenvolvido em python, assim, basta digitar no terminal python3 graphicGenerator.py.
 
 ### Resultados 
 
